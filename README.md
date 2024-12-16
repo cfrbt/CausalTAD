@@ -1,5 +1,7 @@
 # CausalTAD
 
+**The original CausalTAD is designed for trajectories after road network matching and requires road network information, which limits its applicable scenarios. A simplified version of CausalTAD for grid-based trajectories is provided [here](https://github.com/LwbXc/CausalTAD).**
+
 The tested python version is 3.9.13, and please refer to "./requirements.txt" for package versions.
 
 All datasets, including trajectories and information of road network, can be found in the directory "./datasets".
